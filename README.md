@@ -1,4 +1,4 @@
-# 🛡️ ConfGuard+
+# 🛡️ AttentionGuard
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ What's New in ConfGuard+
+## ✨ What's New in AttentionGuard+
 
 **ConfGuard+** enhances the original ConfGuard framework by introducing a novel, state-of-the-art detection method based on **attention analysis**. This new version can identify sophisticated backdoors that might evade simpler detection mechanisms.
 
